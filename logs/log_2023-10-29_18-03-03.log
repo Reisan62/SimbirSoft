@@ -1,0 +1,44 @@
+
+-----
+Test: tests/test_for_simbirsoft.py::test_simbirsoft (call)
+Start time: 2023-10-29 18:03:04.595982
+Start name method: select_customer_button
+
+End time: 2023-10-29 18:03:12.609275
+End name method: select_customer_button
+URL: https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+
+-----
+
+-----
+Test: tests/test_for_simbirsoft.py::test_simbirsoft (call)
+Start time: 2023-10-29 18:03:12.610276
+Start name method: login
+
+End time: 2023-10-29 18:03:15.487191
+End name method: login
+URL: https://www.globalsqa.com/angularJs-protractor/BankingProject/#/customer
+
+-----
+
+-----
+Test: tests/test_for_simbirsoft.py::test_simbirsoft (call)
+Start time: 2023-10-29 18:03:15.488189
+Start name method: select_deposit
+
+End time: 2023-10-29 18:03:22.805375
+End name method: select_deposit
+URL: https://www.globalsqa.com/angularJs-protractor/BankingProject/#/account
+
+-----
+
+-----
+Test: tests/test_for_simbirsoft.py::test_simbirsoft (call)
+Start time: 2023-10-29 18:03:22.806375
+Start name method: pars_table
+
+End time: 2023-10-29 18:03:24.046447
+End name method: pars_table
+URL: https://www.globalsqa.com/angularJs-protractor/BankingProject/#/listTx
+
+-----

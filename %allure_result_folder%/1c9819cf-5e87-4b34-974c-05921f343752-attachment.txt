@@ -1,0 +1,23 @@
+
+---Start test---
+Current url https://www.globalsqa.com/angularJs-protractor/BankingProject/#/customer_button
+Click Customer Login button
+Good value url
+Click Your names
+Select Harry Potter
+Click Your names
+Click Login button
+Click Deposit Menu
+Input Amount
+Click Deposit Button
+Assert Deposit Successful
+Click Withdrawl
+Input Amount
+Click Withdrawl Button
+Assert Transaction successful
+Ваш баланс равен: 0
+Click Transactions
+Количество транзакций равно: 2
+Файл transactions.csv сформирован
+Файл transactions_rus.csv сформирован
+---Finish test---
